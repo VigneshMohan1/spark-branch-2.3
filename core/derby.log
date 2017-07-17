@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Mon Jul 17 00:31:01 PDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015d-4f75-1d2e-00000fca9430 
+on database directory /Users/vigneshmohan/Downloads/spark-master/core/target/JavaJdbcRDDSuiteDb with class loader sun.misc.Launcher$AppClassLoader@28d93b30 
+Loaded from file:/Users/vigneshmohan/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_112-b16
+user.dir=/Users/vigneshmohan/Downloads/spark-master/core
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.5
+derby.system.home=null
+Warning: The database is booted with derby.system.durability=test. In this mode, it is possible that database may not be able to recover, committed transactions may be lost, database may be in an inconsistent state. Please use this mode only when these consequences are acceptable  
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Jul 17 00:31:03 PDT 2017:
+Shutting down instance a816c00e-015d-4f75-1d2e-00000fca9430 on database directory /Users/vigneshmohan/Downloads/spark-master/core/target/JavaJdbcRDDSuiteDb with class loader sun.misc.Launcher$AppClassLoader@28d93b30 
